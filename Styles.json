@@ -18,7 +18,7 @@
         {
           "name": "Ghibli Style",
           "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
-          "promptText": "Turn this photo into a characters in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading.",
+          "promptText": "Create photo into a characters in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading.",
           "api":"dalle2"
         },
         {
