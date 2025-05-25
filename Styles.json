@@ -24,7 +24,7 @@
         {
           "name": "Cartoon 3D",
           "imageUrl": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/short/ai_3d_character_generator/ai_3d_character_generator/wepb/style_3_graphics/thumb003.webp",
-          "promptText": "Transform this image into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
+          "promptText": "Turn this photo into a character in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading. The background should feel magical or nature-inspired—like a peaceful forest, a quaint village, or a Ghibli-style dreamscape. The color palette should be warm and nostalgic, with hand-drawn textures and a slightly whimsical atmosphere. Emulate the art direction of films like Spirited Away, My Neighbor Totoro, or Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
