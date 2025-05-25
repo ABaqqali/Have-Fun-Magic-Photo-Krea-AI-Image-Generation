@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Top Styles",
+      "name": "Top Trends",
       "styles": [
         {
           "name": "No Style",
@@ -10,22 +10,34 @@
           "api":"prodiatxt2img"
         },
         {
-          "name": "Pixel Art",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "pixel art style, 8-bit gaming, retro",
-          "api":"prodiatxt2img"
+          "name": "Action Figure",
+          "imageUrl": "https://razzsumanphotography.com/wp-content/uploads/2025/04/1744174798346.jpg",
+          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "api":"dalle2"
         },
         {
-          "name": "Isometric",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "isometric perspective, geometric design, clean lines",
-          "api":"prodiatxt2img"
+          "name": "Ghibli Style",
+          "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
+          "promptText": "Convert photo to a ghibli style artwork",
+          "api":"prodiaghibli"
         },
         {
-          "name": "Minimalist",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "minimalist style, simple lines, limited color palette",
-          "api":"prodiatxt2img"
+          "name": "Cartoon 3D",
+          "imageUrl": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/short/ai_3d_character_generator/ai_3d_character_generator/wepb/style_3_graphics/thumb003.webp",
+          "promptText": "Transform this image into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Simpson Style",
+          "imageUrl": "https://plugins-media.makeupar.com/smb/blog/post/2024-05-16/e0714c53-cc38-4ec1-ac8a-a004a0cce997.jpg",
+          "promptText": "Turn this photo into a character in the style of The Simpsons. Use the distinctive yellow skin tone, large round eyes with simple black pupils, over-exaggerated cartoon expressions, and flat 2D animation style. The background should resemble a typical Simpsons setting, like the interior of the Simpsons' house or a Springfield street scene. Keep the facial features and clothing style recognizable but adapted to the Simpsons cartoon world, Style reference: The Simpsons, Output: Cartoonified portrait, 2D flat color style",
+          "api":"dalle2"
+        },
+        {
+          "name": "Muppet Style",
+          "imageUrl": "https://us1.discourse-cdn.com/openai1/original/4X/1/e/6/1e6434a315ca7e244d649c46e3b3fa5fc2ae70d0.jpeg",
+          "promptText": "Transform this photo into a character in the style of The Muppets. Use soft, plush-textured features with felt-like skin, large expressive eyes with detailed eyelids, and a wide, flexible mouth. The character should resemble a puppet with stitched seams and exaggerated facial features, typical of Jim Henson’s Muppets. Maintain the recognizable hairstyle, clothing, and expression of the person, but adapt it into a friendly, puppet-like design. The background can be a stage or whimsical Muppet Show setting, Style reference: The Muppets, Jim Henson puppet characters, Output style: Puppet-style 3D cartoon with fabric textures",
+          "api":"dalle2"
         }
       ]
     },
