@@ -42,7 +42,7 @@
         {
           "name": "Cartoon",
           "imageUrl": "https://xinva.ai/wp-content/uploads/2023/12/99.jpg",
-          "promptText": "Transform this photo into a high-quality cartoon-style.",
+          "promptText": "Transform this photo into a high-quality cartoon-style",
           "api":"dalle2"
         }
       ]
