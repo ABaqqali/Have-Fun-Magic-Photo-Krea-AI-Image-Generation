@@ -47,7 +47,7 @@
         {
           "name": "Cartoon",
           "imageUrl": "https://xinva.ai/wp-content/uploads/2023/12/99.jpg",
-          "promptText": " ",
+          "promptText": "A Studio Ghibli-style portrait of a person, soft anime features, large expressive eyes, gentle lighting, hand-painted look, watercolor textures, warm tones, nature-inspired background, highly detailed, cinematic, illustrated by Studio Ghibli, Hayao Miyazaki style",
           "api":"prodiaghibli"
         },
         {
