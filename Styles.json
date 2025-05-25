@@ -47,7 +47,7 @@
         {
           "name": "Cartoon",
           "imageUrl": "https://xinva.ai/wp-content/uploads/2023/12/99.jpg",
-          "promptText": "Reimagine this photo as a Studio Ghibli-style illustration. Capture the subject’s likeness with gentle anime features—soft eyes, natural hair flow, and a subtle expression. Render it in the iconic Ghibli hand-painted look, with pastel tones, warm lighting, and delicate shadows. The background should feel storybook-like and immersive, inspired by scenes from Princess Mononoke, Kiki’s Delivery Service, or Laputa: Castle in the Sky. Add a touch of wonder and fantasy, making it look like a still frame from a Ghibli movie.",
+          "promptText": "",
           "api":"prodiaghibli"
         },
         {
