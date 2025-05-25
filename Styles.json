@@ -18,7 +18,7 @@
         {
           "name": "Ghibli Style",
           "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
-          "promptText": "Convert photo to a ghibli style artwork",
+          "promptText": "Transform this photo into a character in the style of Studio Ghibli. Use soft, hand-drawn anime aesthetics with painterly shading, warm natural lighting, and expressive, large eyes. Facial features should be slightly stylized but gentle and human-like, keeping the person recognizable. The clothing and background should reflect Ghibli’s signature whimsy and nature-inspired settings—such as lush forests, peaceful villages, or magical landscapes. The final image should feel like a frame from a Ghibli film like My Neighbor Totoro, Spirited Away, or Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
