@@ -18,13 +18,13 @@
         {
           "name": "Ghibli Style",
           "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
-          "promptText": "Transform this photo into a character in the style of Studio Ghibli. Use soft, hand-drawn anime aesthetics with painterly shading, warm natural lighting, and expressive, large eyes. Facial features should be slightly stylized but gentle and human-like, keeping the person recognizable. The clothing and background should reflect Ghibli’s signature whimsy and nature-inspired settings—such as lush forests, peaceful villages, or magical landscapes. The final image should feel like a frame from a Ghibli film like My Neighbor Totoro, Spirited Away, or Howl’s Moving Castle",
+          "promptText": "Turn this photo into a character in the style of Studio Ghibli. Use soft, hand-drawn anime aesthetics with painterly shading, warm natural lighting, and expressive, large eyes. Facial features should be slightly stylized but gentle and human-like, keeping the person recognizable. The clothing and background should reflect Ghibli’s signature whimsy and nature-inspired settings—such as lush forests, peaceful villages, or magical landscapes. The final image should feel like a frame from a Ghibli film like My Neighbor Totoro, Spirited Away, or Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
           "name": "Cartoon 3D",
           "imageUrl": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/short/ai_3d_character_generator/ai_3d_character_generator/wepb/style_3_graphics/thumb003.webp",
-          "promptText": "Transform this image into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
+          "promptText": "Turn this photo into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
