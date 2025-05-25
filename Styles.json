@@ -18,7 +18,7 @@
         {
           "name": "Ghibli Style",
           "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
-          "promptText": "Convert this photo into a cartoon-style character. Use clean outlines, bold colors, and simplified facial features while maintaining a recognizable likeness. The cartoon should have smooth, slightly exaggerated expressions and proportions (larger eyes, smaller nose, expressive mouth). Background can be a simple flat color or a soft environment to match the cartoon style. The style should be fun, friendly, and modern—similar to digital animation or comic book art.",
+          "promptText": "Turn this photo into a character in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading. The background should feel magical or nature-inspired—like a peaceful forest, a quaint village, or a Ghibli-style dreamscape. The color palette should be warm and nostalgic, with hand-drawn textures and a slightly whimsical atmosphere. Emulate the art direction of films like Spirited Away, My Neighbor Totoro, or Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
