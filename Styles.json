@@ -30,7 +30,7 @@
         {
           "name": "Simpson Style",
           "imageUrl": "https://plugins-media.makeupar.com/smb/blog/post/2024-05-16/e0714c53-cc38-4ec1-ac8a-a004a0cce997.jpg",
-          "promptText": "Turn this photo into a character in the style of The Simpsons. Use the distinctive yellow skin tone, large round eyes with simple black pupils, over-exaggerated cartoon expressions, and flat 2D animation style. The background should resemble a typical Simpsons setting, like the interior of the Simpsons' house or a Springfield street scene. Keep the facial features and clothing style recognizable but adapted to the Simpsons cartoon world, Style reference: The Simpsons, Output: Cartoonified portrait, 2D flat color style",
+          "promptText": "Turn this photo into a character in the style of The Simpsons. Use the distinctive yellow skin tone, large round eyes with simple black pupils, over-exaggerated cartoon expressions, and flat 2D animation style.",
           "api":"dalle2"
         },
         {
