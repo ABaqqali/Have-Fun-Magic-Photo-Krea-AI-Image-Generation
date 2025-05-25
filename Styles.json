@@ -47,7 +47,7 @@
         {
           "name": "Cartoon",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "Turn this photo into a character in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading. The background should feel magical or nature-inspired—like a peaceful forest, a quaint village, or a Ghibli-style dreamscape. The color palette should be warm and nostalgic, with hand-drawn textures and a slightly whimsical atmosphere. Emulate the art direction of films like Spirited Away, My Neighbor Totoro, or Howl’s Moving Castle",
+          "promptText": "Reimagine this photo as a Studio Ghibli-style illustration. Capture the subject’s likeness with gentle anime features—soft eyes, natural hair flow, and a subtle expression. Render it in the iconic Ghibli hand-painted look, with pastel tones, warm lighting, and delicate shadows. The background should feel storybook-like and immersive, inspired by scenes from Princess Mononoke, Kiki’s Delivery Service, or Laputa: Castle in the Sky. Add a touch of wonder and fantasy, making it look like a still frame from a Ghibli movie.",
           "api":"prodiaghibli"
         },
         {
