@@ -38,92 +38,105 @@
           "imageUrl": "https://us1.discourse-cdn.com/openai1/original/4X/1/e/6/1e6434a315ca7e244d649c46e3b3fa5fc2ae70d0.jpeg",
           "promptText": "Turn this photo into a character in the style of The Muppets. Use soft, plush-textured features with felt-like skin, large expressive eyes with detailed eyelids, and a wide, flexible mouth. The character should resemble a puppet with stitched seams and exaggerated facial features, typical of Jim Henson’s Muppets. Maintain the recognizable hairstyle, clothing, and expression of the person, but adapt it into a friendly, puppet-like design. The background can be a stage or whimsical Muppet Show setting",
           "api":"dalle2"
-        }
-      ]
-    },
-    {
-      "name": "Painting",
-      "styles": [
+        },
         {
           "name": "Cartoon",
           "imageUrl": "https://xinva.ai/wp-content/uploads/2023/12/99.jpg",
           "promptText": "A Studio Ghibli-style portrait of a person, soft anime features, large expressive eyes, gentle lighting, hand-painted look, watercolor textures, warm tones, nature-inspired background, highly detailed, cinematic, illustrated by Studio Ghibli, Hayao Miyazaki style",
           "api":"prodiaghibli"
-        },
-        {
-          "name": "Oil Painting",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
-          "promptText": "oil painting, textured canvas, classical art style",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Abstract",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "abstract art, geometric shapes, bold colors",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Pop Art",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "pop art style, bold colors, comic book inspired",
-          "api":"prodiaghibli"
         }
       ]
     },
     {
-      "name": "Digital Art",
+      "name": "AI Prompt Ideas",
       "styles": [
         {
-          "name": "3D Render",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "3D rendered, highly detailed, photorealistic lighting",
-          "api":"prodiaghibli"
+          "name": "Forest with a unicorn",
+          "imageUrl": "https://fiverr-res.cloudinary.com/f_auto,q_auto/v1/attachments/generic_asset/asset/ffe84449634cdbed113aa91eeb12a6e0-1677576220402/Cover%20art%20AI%20prompt%20ideas%20.png",
+          "promptText": "A magical fantasy forest with a unicorn standing in the center, vivid colors, illuminated by moonlight, surrounded by a rainbow aura, unreal engine, 8k, highly intricate",
+          "api":"prodiatxt2img"
         },
         {
-          "name": "Futuristic",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
-          "promptText": "futuristic style, neon lights, cyberpunk aesthetic",
-          "api":"prodiaghibli"
+          "name": "Futuristic Space Station",
+          "imageUrl": "https://fiverr-res.cloudinary.com/f_auto,q_auto/v1/attachments/generic_asset/asset/1db557a8b27a44bca88365165c5d8960-1677575124963/Website%20image%20AI%20prompt%20ideas%20.png",
+          "promptText": "A futuristic space station orbiting a planet, a sophisticated robot in the foreground, jewel tones, cinematic lighting, photorealistic, ultra photoreal, 8k",
+          "api":"prodiatxt2img"
         },
         {
-          "name": "Vaporwave",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "vaporwave aesthetic, pastel colors, retro digital art",
-          "api":"prodiaghibli"
+          "name": "Beachfront Paradise",
+          "imageUrl": "https://fiverr-res.cloudinary.com/f_auto,q_auto/v1/attachments/generic_asset/asset/1db557a8b27a44bca88365165c5d8960-1677575124944/Social%20media%20post%20AI%20prompt%20ideas%20.png",
+          "promptText": "A beachfront paradise, tropical terrain, holiday resort, sun flare, tropical colors, landscape photography, beautiful landscape, ultra-detailed, vibrant scenery, photorealistic, hyperrealistic",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "A Busy Kitchen",
+          "imageUrl": "https://fiverr-res.cloudinary.com/f_auto,q_auto/v1/attachments/generic_asset/asset/6e6cf33008c4bc246399b2d7ddf4cf5a-1677576474404/Blog%20image%20AI%20prompt%20ideas%20.png",
+          "promptText": "A busy kitchen, homemade food, seasonal ingredients, warm lighting, natural colors, high-resolution textures, ultra-detailed, photorealistic, 8k, octane render",
+          "api":"prodiatxt2img"
         }
       ]
     },
     {
-      "name": "Traditional",
+      "name": "Art",
       "styles": [
         {
-          "name": "Pencil Sketch",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
-          "api":"dalle2"
+          "name": "Modern Skyscraper",
+          "imageUrl": "https://fiverr-res.cloudinary.com/f_auto,q_auto/v1/attachments/generic_asset/asset/1db557a8b27a44bca88365165c5d8960-1677575124961/Paid%20ads%20AI%20prompt%20ideas%20.png",
+          "promptText": "A modern skyscraper, urban cityscape, contemporary architecture inspired by nature, abstract shapes, ultra photorealistic, bright lighting, photorealistic 3D rendering, 8k",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Impressionism",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/94427ce5182ca2253ef542ebd966fb22c3f35d27-768x576.jpg.webp",
+          "promptText": "Craft an impressionist-style painting of a bustling city street at sunset.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Modern Art",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/88799f8526e45ac6370ce58a7578063d944fe011-768x576.jpg.webp",
+          "promptText": "Create a bold and vibrant portrait inspired by pop art aesthetics",
+          "api":"prodiatxt2img"
         }
       ]
     },
     {
-      "name": "Thematic",
+      "name": "Prompts for Anime",
       "styles": [
         {
-          "name": "Gothic",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
-          "promptText": "Transform this image into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
-          "api":"prodiaghibli"
+          "name": "Fantasy Worlds",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/43c9d8a857ba28bba57f62fb08cfd90e61df50a9-768x576.jpg.webp",
+          "promptText": "Generate an epic battle scene in anime style, featuring a dragon and a warrior on a cliff.",
+          "api":"prodiatxt2img"
         },
         {
-          "name": "Sci-Fi",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
-          "promptText": "science fiction, space themes, futuristic technology",
-          "api":"prodiaghibli"
+          "name": "Character Design",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/87d61cf1dbba5d6f7b8c6c7f3b6b805b177f1e01-768x576.jpg.webp",
+          "promptText": "Design a mysterious anime character cloaked in shadows with glowing red eyes.",
+          "api":"prodiatxt2img"
         },
         {
-          "name": "Fantasy",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "fantasy art, magical elements, mystical creatures",
-          "api":"prodiaghibli"
+          "name": "Romantic Scenes",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/fdfd89e90eca85bad8235bbff66571647a679cab-768x576.jpg.webp",
+          "promptText": "Illustrate a serene romantic moment between two anime characters under a cherry blossom tree.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Action Scenes",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/acc35bcb8a507785e96841d94df57f371142f878-768x576.jpg.webp",
+          "promptText": "Illustrate a medieval battlefield with knights and a dragon attacking in the background",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Cozy Retreats",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/0b6e0b08c260c8157ece3414c59776fc35be10f0-768x576.jpg.webp",
+          "promptText": "Produce a rustic cabin in the woods with a warm, inviting atmosphere.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "A fantasy forest with glowing",
+          "imageUrl": "https://www.allaboutai.com/wp-content/uploads/2024/05/591575aa01e19e61a6373034e31b7ded5502c01d-768x576.jpg.webp",
+          "promptText": "A fantasy forest with glowing mushrooms, a sparkling river, and a moonlit sky.",
+          "api":"prodiatxt2img"
         }
       ]
     }
