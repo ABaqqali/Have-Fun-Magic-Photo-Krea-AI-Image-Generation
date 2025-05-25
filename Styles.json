@@ -42,7 +42,7 @@
         {
           "name": "Cartoon",
           "imageUrl": "https://xinva.ai/wp-content/uploads/2023/12/99.jpg",
-          "promptText": "Transform this photo into a high-quality cartoon-style portrait. Preserve the likeness and recognizable features of the person, but stylize them with smooth line art, clean shading, and vibrant colors. The style should be soft and expressive, similar to modern digital cartoons or animated series. Emphasize large, emotive eyes, a simplified but flattering face structure, and a lightly exaggerated expression (e.g., happy, curious, peaceful). Use a plain, softly colored background or a simple gradient that complements the subject. Avoid harsh outlines or extreme caricature; aim for a polished, friendly, and appealing cartoon look suitable for a profile picture or digital avatar.",
+          "promptText": "Transform this photo into a high-quality cartoon-style.",
           "api":"dalle2"
         }
       ]
