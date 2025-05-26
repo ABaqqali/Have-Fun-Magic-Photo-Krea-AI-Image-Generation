@@ -48,7 +48,7 @@
         {
           "name": "Profil Photo",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OFEUTuK-HAWPmz8tV8CpPQ.png",
-          "promptText": "Transform photo into a professional LinkedIn profile picture",
+          "promptText": "make this person into a corporate professional linkedin image ",
           "api":"dalle2"
         }
       ]
