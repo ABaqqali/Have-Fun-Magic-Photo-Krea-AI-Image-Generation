@@ -48,7 +48,7 @@
         {
           "name": "Profil Photo",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OFEUTuK-HAWPmz8tV8CpPQ.png",
-          "promptText": "make this person into a corporate professional linkedin image ",
+          "promptText": "Transform this image into a professional LinkedIn-style headshot. Use a clean, neutral background (light gray, soft blue, or blurred office setting). Enhance lighting to create a well-lit, natural look. Retouch skin slightly for a polished but realistic appearance. Adjust clothing to business professional attire (e.g., blazer, dress shirt). Maintain a friendly, confident expression suitable for corporate networking. Frame the image from the chest up, centered, with a slight head turn and direct eye contact.",
           "api":"dalle2"
         }
       ]
