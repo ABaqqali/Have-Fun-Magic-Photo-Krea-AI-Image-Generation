@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "name": "Styles",
+      "styles": [
+        {
+          "name": "No Style",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/No_Style.png",
+          "promptText": " ",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Action Figure",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Action_Figure.jpg",
+          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "api":"dalle2"
+        },
+        {
+          "name": "Ghibli Style",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Ghibli_Style.jpg",
+          "promptText": "Create photo into a characters in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Cartoon 3D",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Cartoon_3D.webp",
+          "promptText": "Turn this photo into a characters in the style of Studio Ghibli. Preserve the person's core facial features and expression, but render them with soft, painterly anime aesthetics typical of Ghibli films. Use large, expressive eyes, natural facial proportions, and smooth skin tones with delicate shading. The background should feel magical or nature-inspired—like a peaceful forest, a quaint village, or a Ghibli-style dreamscape. The color palette should be warm and nostalgic, with hand-drawn textures and a slightly whimsical atmosphere. Emulate the art direction of films like Spirited Away, My Neighbor Totoro, or Howl’s Moving Castle",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Simpson Style",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Simpson_Style.jpg",
+          "promptText": "Turn this photo into a character in the style of The Simpsons. Use the distinctive yellow skin tone, large round eyes with simple black pupils, over-exaggerated cartoon expressions, and flat 2D animation style.",
+          "api":"dalle2"
+        },
+        {
+          "name": "Muppet Style",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Muppet_Style.jpeg",
+          "promptText": "Turn this photo into a character in the style of The Muppets. Use soft, plush-textured features with felt-like skin, large expressive eyes with detailed eyelids, and a wide, flexible mouth. The character should resemble a puppet with stitched seams and exaggerated facial features, typical of Jim Henson’s Muppets. Maintain the recognizable hairstyle, clothing, and expression of the person, but adapt it into a friendly, puppet-like design. The background can be a stage or whimsical Muppet Show setting",
+          "api":"dalle2"
+        },
+        {
+          "name": "Cartoon",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Cartoon.jpg",
+          "promptText": "Transform this photo into a high-quality cartoon-style",
+          "api":"dalle2"
+        },
+        {
+          "name": "Profil Photo",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Profil.png",
+          "promptText": "Transform this image into a professional LinkedIn-style headshot. Use a clean, neutral background (light gray, soft blue, or blurred office setting). Enhance lighting to create a well-lit, natural look. Retouch skin slightly for a polished but realistic appearance. Adjust clothing to business professional attire (e.g., blazer, dress shirt). Maintain a friendly, confident expression suitable for corporate networking. Frame the image from the chest up, centered, with a slight head turn and direct eye contact.",
+          "api":"dalle2"
+        },
+        {
+          "name": "Social Photo",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Social_Trend.png",
+          "promptText": "Transform this image into a professional LinkedIn-style headshot. Use a clean, neutral background (light gray, soft blue, or blurred office setting). Enhance lighting to create a well-lit, natural look. Retouch skin slightly for a polished but realistic appearance. Adjust clothing to business professional attire (e.g., blazer, dress shirt). Maintain a friendly, confident expression suitable for corporate networking. Frame the image from the chest up, centered, with a slight head turn and direct eye contact.",
+          "api":"dalle2"
+        }
+      ]
+    },
+    {
+      "name": "AI Prompt Ideas",
+      "styles": [
+        {
+          "name": "Forest with a unicorn",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Forest_with_a_unicorn.jpeg",
+          "promptText": "A magical fantasy forest with a unicorn standing in the center, vivid colors, illuminated by moonlight, surrounded by a rainbow aura, unreal engine, 8k, highly intricate",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Futuristic Space Station",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Futuristic_Space_Station.jpeg",
+          "promptText": "A futuristic space station orbiting a planet, a sophisticated robot in the foreground, jewel tones, cinematic lighting, photorealistic, ultra photoreal, 8k",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Beachfront Paradise",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Beachfront_Paradise.webp",
+          "promptText": "A beachfront paradise, tropical terrain, holiday resort, sun flare, tropical colors, landscape photography, beautiful landscape, ultra-detailed, vibrant scenery, photorealistic, hyperrealistic",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "A Busy Kitchen",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/A_Busy_Kitchen.webp",
+          "promptText": "A busy kitchen, homemade food, seasonal ingredients, warm lighting, natural colors, high-resolution textures, ultra-detailed, photorealistic, 8k, octane render",
+          "api":"prodiatxt2img"
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "styles": [
+        {
+          "name": "Modern Skyscraper",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Modern_Skyscraper.webp",
+          "promptText": "A modern skyscraper, urban cityscape, contemporary architecture inspired by nature, abstract shapes, ultra photorealistic, bright lighting, photorealistic 3D rendering, 8k",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Impressionism",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Impressionism.webp",
+          "promptText": "Craft an impressionist-style painting of a bustling city street at sunset.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Modern Art",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Modern_Art.webp",
+          "promptText": "Create a bold and vibrant portrait inspired by pop art aesthetics",
+          "api":"prodiatxt2img"
+        }
+      ]
+    },
+    {
+      "name": "Prompts for Anime",
+      "styles": [
+        {
+          "name": "Fantasy Worlds",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Fantasy_Worlds.webp",
+          "promptText": "Generate an epic battle scene in anime style, featuring a dragon and a warrior on a cliff.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Character Design",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Character_Design.webp",
+          "promptText": "Design a mysterious anime character cloaked in shadows with glowing red eyes.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Romantic Scenes",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Romantic_Scenes.webp",
+          "promptText": "Illustrate a serene romantic moment between two anime characters under a cherry blossom tree.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Action Scenes",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Action_Scenes.webp",
+          "promptText": "Illustrate a medieval battlefield with knights and a dragon attacking in the background",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Cozy Retreats",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Cozy_Retreats.webp",
+          "promptText": "Produce a rustic cabin in the woods with a warm, inviting atmosphere.",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "A fantasy forest with glowing",
+          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/A_fantasy_forest_with_glowing.webp",
+          "promptText": "A fantasy forest with glowing mushrooms, a sparkling river, and a moonlit sky.",
+          "api":"prodiatxt2img"
+        }
+      ]
+    }
+  ]
+}
