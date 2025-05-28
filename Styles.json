@@ -18,7 +18,7 @@
         {
           "name": "Ghibli Style",
           "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
-          "promptText": "Create image in the style of studio ghibli",
+          "promptText": "Create image in the style of studio ghibli.",
           "api":"dalle2"
         },
         {
