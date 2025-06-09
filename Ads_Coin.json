@@ -4,9 +4,9 @@
   "ClickCount":1,
    "ShowLoadingAds":true,
   
-  "DEFAULT_COINS": 50,
+  "DEFAULT_COINS": 30,
   "OWNED_COINS_FOR_REWARD_WATCH": 5,
-  "IMAGE_GENERATION_COST": 10,
+  "IMAGE_GENERATION_COST": 15,
 
   "number_of_sessions_to_show": 1,
   "number_of_stars_to_rate": "4f",
