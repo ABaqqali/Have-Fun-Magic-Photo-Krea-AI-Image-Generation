@@ -4,12 +4,12 @@
   "ClickCount":1,
    "ShowLoadingAds":true,
   
-  "DEFAULT_COINS": 30,
+  "DEFAULT_COINS": 20,
   "OWNED_COINS_FOR_REWARD_WATCH": 5,
   "IMAGE_GENERATION_COST": 10,
 
   "number_of_sessions_to_show": 1,
-  "number_of_stars_to_rate": "4f",
+  "number_of_stars_to_rate": "3f",
   
  
   "admob_inter":"ca-app-pub-4699353223356275/2659061116",
