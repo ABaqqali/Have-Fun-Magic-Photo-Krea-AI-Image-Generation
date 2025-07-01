@@ -1,506 +1,117 @@
 {
   "categories": [
     {
-      "name": "Trend",
+      "name": "Top Styles",
       "styles": [
         {
           "name": "No Style",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/No_Style.png",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/effect.png",
           "promptText": " ",
           "api":"prodiatxt2img"
         },
         {
-          "name": "Action Figure",
-          "imageUrl": "https://plugins-media.makeupar.com/smb/story/2025-04-08/ae9e473f-96db-474c-8a9b-975a86f6c346.png",
-          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "name": "Pixel Art",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "pixel art style, 8-bit gaming, retro",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Isometric",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "isometric perspective, geometric design, clean lines",
+          "api":"prodiatxt2img"
+        },
+        {
+          "name": "Minimalist",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "minimalist style, simple lines, limited color palette",
+          "api":"prodiatxt2img"
+        }
+      ]
+    },
+    {
+      "name": "Painting",
+      "styles": [
+        {
+          "name": "Watercolor",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+          "promptText": "watercolor painting, soft edges, artistic brushstrokes",
           "api":"prodiaghibli"
         },
         {
-          "name": "Business profiles",
-          "imageUrl": "https://myedit.online/seo_content/images/section_05/ai_professional_photo_02.webp",
-          "promptText": "Transform this image into a clean, professional corporate portrait suitable for LinkedIn or business profiles. Use realistic lighting with a soft focus, neutral or lightly blurred background (light gray, white, soft blue, or modern office setting). The subject should be well-lit with even tones, minimal shadow, and natural skin texture. Clothing should appear formal and clean—business attire like a blazer, dress shirt, or blouse (optionally with a tie or scarf). Maintain a confident, approachable expression with direct eye contact and a natural posture. The overall image should be sharp, elegant, and polished, evoking professionalism, trustworthiness, and competence.",
+          "name": "Oil Painting",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
+          "promptText": "oil painting, textured canvas, classical art style",
           "api":"prodiaghibli"
         },
         {
-          "name": "Social Photo",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Social_Trend.png",
-          "promptText": "Transform this photo into a stylized 3D cartoon character sitting in a cozy, modern room with warm lighting and a beach view through the window. The subject should have large expressive eyes, a rounded face, and soft plastic-like textures — similar to high-quality vinyl figures or Pixar-style avatars. Dress them in casual, modern clothing (like a simple dress or t-shirt and shorts) and seat them on a cube featuring the logo of a social media platform (e.g., TikTok). Include a giant smartphone display next to them showing their profile with follower stats, a profile pic, and a soft pastel UI. The final composition should be playful, clean, and feel like a promotional animation for a digital influencer.",
+          "name": "Abstract",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+          "promptText": "abstract art, geometric shapes, bold colors",
           "api":"prodiaghibli"
         },
         {
-          "name": "NightClub in NewYork",
-          "imageUrl": "https://github.com/ABaqqali/IOS-AI-Image-Generation/blob/main/NightClub1.jpg?raw=true",
-          "promptText": "Put this guy in a puffy black jacket with led rings. The background is a New York City nightclub. He is wearing a leopard print shirt and gold chains.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Ghibli 1",
-          "imageUrl": "https://geblee.ai/imgs/features/2.png",
-          "promptText": "Transform the image into a vibrant, hand-drawn style reminiscent of Studio Ghibli animation. The style should include soft, rounded character features, with smooth, flowing lines and a dreamlike atmosphere",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Caricature style",
-          "imageUrl": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/327714970/original/1a6e437521ae0e99b506c035cbf7af0bac7962d4/make-cartoon-caricature-portraits-and-digital-design.jpg",
-          "promptText": "Transform this image into a caricature style. Exaggerate distinctive facial features such as the nose, eyes, mouth, or hair while preserving a recognizable likeness. Use bold outlines, vibrant colors, and playful proportions. The style should be humorous, expressive, and slightly exaggerated, as if drawn by a skilled cartoonist. Add a fun, dynamic background or context that enhances the personality of the subject.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Minecraft style",
-          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2484f97-a047-49d6-837b-ef68966e6d85/dh1j0oz-237fe70e-e866-426c-93f2-a14735d28795.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YyNDg0Zjk3LWEwNDctNDlkNi04MzdiLWVmNjg5NjZlNmQ4NVwvZGgxajBvei0yMzdmZTcwZS1lODY2LTQyNmMtOTNmMi1hMTQ3MzVkMjg3OTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDeeoBcy-3zkOkgKwn-iL-6dVg4dJL8l_OhF-4f5d5M",
-          "promptText": "Transform this image into Minecraft style. Recreate the subject using blocky, low-resolution textures, square pixels, and voxel-based geometry. All shapes and forms should appear built from cubes, with a pixel-art aesthetic. Use Minecraft’s signature lighting, flat shading, and simplified colors. The environment and subject should look like they were constructed in the Minecraft game engine, with clear, cartoony realism and a playful tone.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Muppet Style",
-          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/04/Muppet-Matt-Holding-A-Bird.jpg",
-          "promptText": "Transform this image into Muppet style. Reimagine the subject as a soft, hand-crafted puppet made from felt, fleece, and yarn. Use bright, solid colors, simple rounded shapes, and expressive features like large googly eyes, stitched mouths, and exaggerated noses. The texture should resemble fuzzy fabric or plush material. The overall look should be friendly, playful, and theatrical, as if the character belongs on a puppet stage or in a Jim Henson production.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Simpsons style",
-          "imageUrl": "https://imagineme-ai.b-cdn.net/wp-content/uploads/2024/07/58f37159-1-446946-SeverLatysov-man-as-a-character-from-the-Simpsons-in-the-Simpsons-animated-s-1.png",
-          "promptText": "Transform this image into The Simpsons cartoon style. Use flat, 2D line art with bold black outlines and simple, solid colors. Characters should have the classic yellow skin tone, over-exaggerated expressions, and minimal shading. Facial features should be simplified with large round eyes, overbites, and expressive, cartoon-style gestures. The overall look should match the world of The Simpsons, with a playful, satirical tone and Springfield-style background elements.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Lego style",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIK0y4I4wpkTHKKIa4uzvWhDZGhZIL2o-eg&s",
-          "promptText": "Transform this image into Lego style. Reimagine the subject using glossy plastic Lego bricks with clean, modular shapes and bright, solid colors. Characters should appear as Lego minifigures, with cylindrical heads, U-shaped hands, and simple printed facial features. Objects and environments should be built entirely from interlocking bricks, with clear studs, sharp edges, and a toy-like scale. Lighting should reflect the shiny plastic texture typical of Lego models.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Manga Style",
-          "imageUrl": "https://animegenius-global.live3d.io/vtuber/ai_product/anime_genius/static/imgs/bc043ce8dc1d116fa0a977046fc0247a.webp",
-          "promptText": "Transform this image into manga style. Use clean black-and-white line art with bold outlines, expressive facial features (large eyes, sharp chins, dramatic expressions), and screentone shading for depth. Emphasize dynamic poses, stylized hair, and emotional intensity typical of Japanese manga illustrations. Background can be simplified or rendered in manga panel style with action lines or halftone textures.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Psychedelic art style",
-          "imageUrl": "https://cdn.cgdream.ai/_next/image?url=https%3A%2F%2Fapi.cgdream.ai%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3FQb0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--d526e217231b6372c7ed7823fb3f3da29b30b5db%2F31b7e032-9085-4911-a0fc-2d26c1ff509d_0.png&w=1920&q=95",
-          "promptText": "Transform this image into psychedelic art style. Use highly saturated, vibrant colors, swirling patterns, and surreal, dreamlike imagery. Incorporate fractals, mandalas, optical illusions, and fluid, morphing shapes. The composition should feel mind-expanding and trippy, with a sense of cosmic or spiritual energy. Blend elements of 1960s/70s psychedelic posters with modern digital surrealism — kaleidoscopic, hypnotic, and full of movement.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Ceramic Style",
-          "imageUrl": "https://www.ceramicreview.com/wp-content/uploads/2024/04/Elena_Howard_AI-generated_ceramic_ideas_04-1-1118x1118.jpg",
-          "promptText": "Transform this image into ceramic art style. Reimagine the subject as if sculpted from clay or porcelain, with smooth, hand-crafted surfaces and subtle imperfections. Use natural earth tones or glossy glazed finishes with hand-painted details, cracks, or texture. Lighting should highlight the ceramic sheen and contours, emphasizing the solid, sculptural form. The overall aesthetic should feel artisanal, tactile, and inspired by pottery, figurines, or ceramic tiles.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Comic book Style",
-          "imageUrl": "https://r2.starryai.com/results/1014576604/4d3d4909-2b2d-4c13-892d-bed858ed0a0c.webp",
-          "promptText": "Transform this image into comic book style. Use bold black outlines, high-contrast shading, and dramatic, stylized poses. Apply halftone dots, cross-hatching, and flat, vibrant colors. Emphasize exaggerated expressions, dynamic action, and panel-ready composition. Add optional speech bubbles, speed lines, or onomatopoeia (like 'BAM!' or 'ZAP!') for a classic comic book feel. The overall look should be energetic and graphic, inspired by superhero comics or vintage pulp illustrations.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Steampunk Puppet Style",
-          "imageUrl": "https://cdn.openart.ai/published/NIK44stGBvEPibQWQmjZ/9FpU9LEF_DIxW_raw.jpg",
-          "promptText": "Transform this image into Steampunk Puppet style. Reimagine the subject as a mechanical puppet with exposed gears, brass joints, rivets, and leather straps. The body should be segmented like a marionette or automaton, with visible hinges, screws, and vintage clockwork mechanisms. Use a color palette of tarnished gold, copper, bronze, and dark wood, with fabric or leather accents in earthy tones. The face can be a blend of doll-like innocence and mechanical detailing — glass eyes, etched metal plates, or stitched seams. Backgrounds should feel industrial and Victorian — full of pipes, steam vents, and analog machinery — evoking a handcrafted, retro-futuristic world.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Ghibli 2",
-          "imageUrl": "https://i.dawn.com/primary/2025/03/281343325fab058.jpg",
-          "promptText": "Make this image a ghiblified",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Knitted toy style",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEt5SqS7FMA65X2JFtWvTBY0kMRIku9613g&s",
-          "promptText": "Transform this image into a soft, handmade knitted toy style. The subject should appear as if it’s made of colorful yarn, with visible knit or crochet stitches, soft textures, rounded features, and plush-like proportions. Use warm, cozy lighting and a simple background to emphasize the crafted, toy-like feel.",
+          "name": "Pop Art",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+          "promptText": "pop art style, bold colors, comic book inspired",
           "api":"prodiaghibli"
         }
       ]
     },
     {
-      "name": "Character & Animation",
+      "name": "Digital Art",
       "styles": [
         {
-          "name": "Action Figure",
-          "imageUrl": "https://plugins-media.makeupar.com/smb/story/2025-04-08/ae9e473f-96db-474c-8a9b-975a86f6c346.png",
-          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "name": "3D Render",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+          "promptText": "3D rendered, highly detailed, photorealistic lighting",
           "api":"prodiaghibli"
         },
         {
-          "name": "Ghibli 1",
-          "imageUrl": "https://geblee.ai/imgs/features/2.png",
-          "promptText": "Transform the image into a vibrant, hand-drawn style reminiscent of Studio Ghibli animation. The style should include soft, rounded character features, with smooth, flowing lines and a dreamlike atmosphere",
+          "name": "Futuristic",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
+          "promptText": "futuristic style, neon lights, cyberpunk aesthetic",
           "api":"prodiaghibli"
         },
         {
-          "name": "Clay Motion Style",
-          "model": "supernova",
-          "prompt": "Transform this image into a clay motion (claymation) style. The subject should appear handcrafted from colorful modeling clay, with visible fingerprints, smudges, and soft, slightly imperfect textures. Use stop-motion animation aesthetics with exaggerated expressions, simple shapes, and a playful, handmade look. The lighting should mimic a miniature set with subtle shadows and a tangible, tactile feel.",
-          "thumbnail": "https://img.freepik.com/premium-photo/ilustration-art-claymation-style-stop-motion-animation-funny-clay-puppet-car-creative-cute-anime_1020495-51036.jpg"
-        },
-		{
-          "name": "Knitted toy style",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEt5SqS7FMA65X2JFtWvTBY0kMRIku9613g&s",
-          "promptText": "Transform this image into a soft, handmade knitted toy style. The subject should appear as if it’s made of colorful yarn, with visible knit or crochet stitches, soft textures, rounded features, and plush-like proportions. Use warm, cozy lighting and a simple background to emphasize the crafted, toy-like feel.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Caricature style",
-          "imageUrl": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/327714970/original/1a6e437521ae0e99b506c035cbf7af0bac7962d4/make-cartoon-caricature-portraits-and-digital-design.jpg",
-          "promptText": "Transform this image into a caricature style. Exaggerate distinctive facial features such as the nose, eyes, mouth, or hair while preserving a recognizable likeness. Use bold outlines, vibrant colors, and playful proportions. The style should be humorous, expressive, and slightly exaggerated, as if drawn by a skilled cartoonist. Add a fun, dynamic background or context that enhances the personality of the subject.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Minecraft style",
-          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2484f97-a047-49d6-837b-ef68966e6d85/dh1j0oz-237fe70e-e866-426c-93f2-a14735d28795.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YyNDg0Zjk3LWEwNDctNDlkNi04MzdiLWVmNjg5NjZlNmQ4NVwvZGgxajBvei0yMzdmZTcwZS1lODY2LTQyNmMtOTNmMi1hMTQ3MzVkMjg3OTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDeeoBcy-3zkOkgKwn-iL-6dVg4dJL8l_OhF-4f5d5M",
-          "promptText": "Transform this image into Minecraft style. Recreate the subject using blocky, low-resolution textures, square pixels, and voxel-based geometry. All shapes and forms should appear built from cubes, with a pixel-art aesthetic. Use Minecraft’s signature lighting, flat shading, and simplified colors. The environment and subject should look like they were constructed in the Minecraft game engine, with clear, cartoony realism and a playful tone.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Muppet Style",
-          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/04/Muppet-Matt-Holding-A-Bird.jpg",
-          "promptText": "Transform this image into Muppet style. Reimagine the subject as a soft, hand-crafted puppet made from felt, fleece, and yarn. Use bright, solid colors, simple rounded shapes, and expressive features like large googly eyes, stitched mouths, and exaggerated noses. The texture should resemble fuzzy fabric or plush material. The overall look should be friendly, playful, and theatrical, as if the character belongs on a puppet stage or in a Jim Henson production.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Simpsons style",
-          "imageUrl": "https://imagineme-ai.b-cdn.net/wp-content/uploads/2024/07/58f37159-1-446946-SeverLatysov-man-as-a-character-from-the-Simpsons-in-the-Simpsons-animated-s-1.png",
-          "promptText": "Transform this image into The Simpsons cartoon style. Use flat, 2D line art with bold black outlines and simple, solid colors. Characters should have the classic yellow skin tone, over-exaggerated expressions, and minimal shading. Facial features should be simplified with large round eyes, overbites, and expressive, cartoon-style gestures. The overall look should match the world of The Simpsons, with a playful, satirical tone and Springfield-style background elements.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Lego style",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIK0y4I4wpkTHKKIa4uzvWhDZGhZIL2o-eg&s",
-          "promptText": "Transform this image into Lego style. Reimagine the subject using glossy plastic Lego bricks with clean, modular shapes and bright, solid colors. Characters should appear as Lego minifigures, with cylindrical heads, U-shaped hands, and simple printed facial features. Objects and environments should be built entirely from interlocking bricks, with clear studs, sharp edges, and a toy-like scale. Lighting should reflect the shiny plastic texture typical of Lego models.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Barbie Doll Style",
-          "imageUrl": "https://img.freepik.com/premium-photo/barbie-doll_94574-3091.jpg",
-          "promptText": "Transform this image into Barbie Doll style. Reimagine the subject as a glamorous plastic fashion doll with smooth, flawless features, glossy skin, and perfect hair. Use bright, pastel colors (especially pinks, purples, and turquoise), and style the subject with fashionable, doll-like clothing and accessories. The face should have soft makeup, shiny lips, and large, expressive eyes with long lashes. The overall look should be polished, vibrant, and posed — as if displayed in a toy box or fashion runway set.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Anime Realism Style",
-          "imageUrl": "https://images-ng.pixai.art/images/orig/a8517366-193e-41bc-a57d-7fa1346f49f8",
-          "promptText": "Transform this image into Anime Realism style. Maintain the stylized features of anime — large expressive eyes, sharp facial lines, and clean silhouettes — but render them with realistic textures, detailed lighting, and subtle skin shading. Use natural color palettes, soft gradients, and reflective lighting for a semi-realistic look. Hair should have fine strands and natural flow, clothing should show realistic folds and textures, and the background should include cinematic depth-of-field and atmospheric detail. The final image should balance anime charm with a painterly, lifelike finish.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Paper Cutout Style",
-          "imageUrl": "https://thumbs.dreamstime.com/b/valentine-s-day-card-lovers-valentine-s-day-card-couple-love-paper-craft-style-illustration-ai-generated-355232490.jpg",
-          "promptText": "Transform this image into Paper Cutout style. Reimagine the subject using layered pieces of cut paper with visible edges, soft shadows, and a tactile, hand-crafted appearance. Each shape should be a separate paper layer, with clean or slightly rough edges and subtle textures like cardstock, construction paper, or felt. Use a limited color palette with flat tones, avoiding gradients or deep shadows. The lighting should highlight the physical depth between layers, creating a charming, collage-like 3D effect. The overall style should feel playful, artisanal, and storybook-inspired",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Tim Burton Style",
-          "imageUrl": "https://i.pinimg.com/736x/43/9f/6e/439f6ebd57089dd2d1fa34326086b99c.jpg",
-          "promptText": "Transform this image into Tim Burton style. Reimagine the subject with exaggerated proportions, pale complexions, and large, expressive eyes with dark circles. Use a gothic color palette with desaturated tones, black, gray, deep purples, and eerie blues. Incorporate twisted, whimsical shapes, elongated limbs, and asymmetrical features. The background should feel dreamlike and haunting — foggy forests, crooked buildings, or dramatic skies. Textures should be hand-drawn or sketchy, with a macabre yet playful atmosphere, inspired by films like The Nightmare Before Christmas, Corpse Bride, or Beetlejuice.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Steampunk Puppet Style",
-          "imageUrl": "https://cdn.openart.ai/published/NIK44stGBvEPibQWQmjZ/9FpU9LEF_DIxW_raw.jpg",
-          "promptText": "Transform this image into Steampunk Puppet style. Reimagine the subject as a mechanical puppet with exposed gears, brass joints, rivets, and leather straps. The body should be segmented like a marionette or automaton, with visible hinges, screws, and vintage clockwork mechanisms. Use a color palette of tarnished gold, copper, bronze, and dark wood, with fabric or leather accents in earthy tones. The face can be a blend of doll-like innocence and mechanical detailing — glass eyes, etched metal plates, or stitched seams. Backgrounds should feel industrial and Victorian — full of pipes, steam vents, and analog machinery — evoking a handcrafted, retro-futuristic world.",
-          "api":"prodiaghibli"
-        },
-		{
-          "name": "Manga Style",
-          "imageUrl": "https://animegenius-global.live3d.io/vtuber/ai_product/anime_genius/static/imgs/bc043ce8dc1d116fa0a977046fc0247a.webp",
-          "promptText": "Transform this image into manga style. Use clean black-and-white line art with bold outlines, expressive facial features (large eyes, sharp chins, dramatic expressions), and screentone shading for depth. Emphasize dynamic poses, stylized hair, and emotional intensity typical of Japanese manga illustrations. Background can be simplified or rendered in manga panel style with action lines or halftone textures.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Pixar style",
-          "imageUrl": "https://lumenor.ai/cdn-cgi/imagedelivery/F5KOmplEz0rStV2qDKhYag/66b73539-7bd8-4659-a667-cce6d0d95200/tn",
-          "promptText": "Transform this image into a Pixar-style 3D animated character or scene. Use smooth, stylized shapes, vibrant colors, large expressive eyes, soft textures, and detailed lighting. The style should be wholesome, friendly, and full of emotion, with a cinematic Pixar-like quality, as if from a modern animated feature film.",
+          "name": "Vaporwave",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+          "promptText": "vaporwave aesthetic, pastel colors, retro digital art",
           "api":"prodiaghibli"
         }
       ]
     },
     {
-      "name": "Art & Illustration",
+      "name": "Traditional",
       "styles": [
         {
-          "name": "Pop art style",
-          "imageUrl": "https://img.freepik.com/premium-photo/pop-art-style-woman-with-blonde-hair-blue-eyes_899449-126996.jpg",
-          "promptText": "Transform this image into pop art style. Use bold, saturated colors, thick black outlines, and high contrast. Incorporate halftone dot patterns, comic book-style shading, and graphic elements. The composition should feel energetic, flat yet dynamic, with a retro, 1960s-inspired aesthetic reminiscent of Roy Lichtenstein or Andy Warhol. Add speech bubbles or text for a comic-book effect if appropriate.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Water color style",
-          "imageUrl": "https://portraitart.app/static/gallery/portrait4_watercolor_1024.webp",
-          "promptText": "Transform this image into a watercolor painting style. Use soft, flowing brushstrokes, gentle gradients, and semi-transparent layers. Colors should bleed naturally with watercolor texture, subtle splashes, and uneven edges. Preserve the subject’s form with loose, artistic interpretation, emphasizing light, airy, and organic aesthetics. The background can be abstract or softly faded to enhance the hand-painted look.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Fractal Explosion",
-          "imageUrl": "https://trippystore.com/cdn/shop/products/posters-fractal-explosion-poster-001494-4823561699381.jpg?v=1624181780",
-          "promptText": "Vibrant fractal patterns exploding outward, intricate mathematical art, kaleidoscopic effect, infinite recursive patterns, digital abstract art",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Psychedelic art style",
-          "imageUrl": "https://cdn.cgdream.ai/_next/image?url=https%3A%2F%2Fapi.cgdream.ai%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3FQb0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--d526e217231b6372c7ed7823fb3f3da29b30b5db%2F31b7e032-9085-4911-a0fc-2d26c1ff509d_0.png&w=1920&q=95",
-          "promptText": "Transform this image into psychedelic art style. Use highly saturated, vibrant colors, swirling patterns, and surreal, dreamlike imagery. Incorporate fractals, mandalas, optical illusions, and fluid, morphing shapes. The composition should feel mind-expanding and trippy, with a sense of cosmic or spiritual energy. Blend elements of 1960s/70s psychedelic posters with modern digital surrealism — kaleidoscopic, hypnotic, and full of movement.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Ink Sketch Style",
-          "imageUrl": "https://cdn.pixabay.com/photo/2024/08/26/09/57/ai-generated-8998899_1280.jpg",
-          "promptText": "Transform this image into Ink Sketch style. Reimagine the subject using black or sepia ink on textured paper, with hand-drawn lines, visible pen strokes, and cross-hatching for shadows. Emphasize contour lines, fine details, and expressive marks — avoiding color in favor of tonal contrast and linework. The overall composition should feel like a traditional sketchbook drawing or an etching, with a raw, artistic quality. Backgrounds may be minimal or lightly rendered with loose line shading, leaving white space or sketchy context.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Oil Painting Style",
-          "imageUrl": "https://img.freepik.com/premium-photo/abstract-art-oil-painting-art-style_926199-1590754.jpg",
-          "promptText": "Transform this image into Oil Painting style. Reimagine the subject using thick, textured brushstrokes, rich color blending, and layered oil paint techniques. Emphasize painterly textures, visible impasto, and realistic yet artistic lighting with strong highlights and shadows. The composition should feel like a classical or impressionist painting, with soft edges, warm tones, and a canvas-like background. Details can be slightly abstracted to prioritize mood and brushwork over photorealism, evoking a timeless, handcrafted aesthetic.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Graffiti Street Art Style",
-          "imageUrl": "https://r2.starryai.com/results/1034156581/2bd42053-aebc-477e-80d2-006e9bb551d8.webp",
-          "promptText": "Transform this image into Graffiti Street Art style. Reimagine the subject with bold spray paint effects, vibrant neon or primary colors, and high-contrast outlines. Use urban textures like brick walls, concrete, and weathered surfaces as a backdrop. Incorporate dynamic elements like paint drips, splatters, stencil layers, wildstyle lettering, or graphic motifs. The composition should feel raw, expressive, and rebellious — as if it were painted on a city wall in a burst of creative energy. Mix realism with street-style abstraction, attitude, and grit.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Etching Print Style",
-          "imageUrl": "https://ik.imagekit.io/freeflo/production/466112a1-b02d-4c9e-984a-847fce71926e.png?tr=w-3840,q-75&alt=media&pr-true",
-          "promptText": "Transform this image into Etching Print style. Reimagine the subject with finely detailed linework, rendered in black or sepia ink, using techniques such as cross-hatching, stippling, and contour engraving. The image should appear as if etched onto aged paper or parchment, with strong contrast between light and shadow. Emphasize texture and intricate shading rather than color, simulating the look of copperplate or steel engraving. The overall aesthetic should resemble antique scientific illustrations, classical portraiture, or 18th–19th century book plates — precise, elegant, and richly textured.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Charcoal Drawing Style",
-          "imageUrl": "https://imagef2.promeai.pro/process/do/4d2bc84713839be7990136cb18a3f091.webp?sourceUrl=/g/p/gallery/publish/2023/11/08/0f263deb1aa74b11a8dc664aa1c8f564.png&x-oss-process=image/resize,w_500,h_500/format,webp&sign=b11a962e4f1cdad269e25dd07239d1cd",
-          "promptText": "Transform this image into Charcoal Drawing style. Reimagine the subject using bold, expressive strokes of black and gray charcoal on textured paper. Emphasize strong contrasts with deep shadows, soft smudging, and highlights created by erased or untouched areas. Use rough, gestural lines for dynamic energy, and fine hatching or blending for detailed shading. The background should remain minimal or sketchy, allowing the focus to fall on dramatic lighting, form, and texture. The final result should evoke the raw, tactile quality of hand-drawn fine art — moody, intense, and atmospheric.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Ceramic Style",
-          "imageUrl": "https://www.ceramicreview.com/wp-content/uploads/2024/04/Elena_Howard_AI-generated_ceramic_ideas_04-1-1118x1118.jpg",
-          "promptText": "Transform this image into ceramic art style. Reimagine the subject as if sculpted from clay or porcelain, with smooth, hand-crafted surfaces and subtle imperfections. Use natural earth tones or glossy glazed finishes with hand-painted details, cracks, or texture. Lighting should highlight the ceramic sheen and contours, emphasizing the solid, sculptural form. The overall aesthetic should feel artisanal, tactile, and inspired by pottery, figurines, or ceramic tiles.",
-          "api":"prodiaghibli"
-        },
-		{
-          "name": "Comic book Style",
-          "imageUrl": "https://r2.starryai.com/results/1014576604/4d3d4909-2b2d-4c13-892d-bed858ed0a0c.webp",
-          "promptText": "Transform this image into comic book style. Use bold black outlines, high-contrast shading, and dramatic, stylized poses. Apply halftone dots, cross-hatching, and flat, vibrant colors. Emphasize exaggerated expressions, dynamic action, and panel-ready composition. Add optional speech bubbles, speed lines, or onomatopoeia (like 'BAM!' or 'ZAP!') for a classic comic book feel. The overall look should be energetic and graphic, inspired by superhero comics or vintage pulp illustrations.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Digital Glitch",
-          "imageUrl": "https://img.freepik.com/premium-photo/vibrant-glitch-art-portraits-showcasing-abstract-digital-distortions-faces-glitch-art-portrait_1143726-15526.jpg",
-          "promptText": "Abstract digital glitch art, corrupted data aesthetics, pixel sorting, RGB channel shifts, contemporary digital art, detailed texture",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Liquid Dreams",
-          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b408ef6d-e424-4f91-ad56-04c75e148f32/dfp12do-6dd103d3-0901-471e-9ae4-62bde8f184c0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0MDhlZjZkLWU0MjQtNGY5MS1hZDU2LTA0Yzc1ZTE0OGYzMlwvZGZwMTJkby02ZGQxMDNkMy0wOTAxLTQ3MWUtOWFlNC02MmJkZThmMTg0YzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YdZvwuzSFaWckfLfvcw3hPpbgfDrjeefptREgjzeuGA",
-          "promptText": "Abstract flowing liquid forms in vivid colors, dreamlike quality, marble-like patterns, surreal art, highly detailed textures, digital art",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Geometric Symphony",
-          "imageUrl": "https://img.freepik.com/premium-photo/geometric-shapes-dancing-hypnotic-symphony-color_889056-23574.jpg",
-          "promptText": "Abstract geometric shapes arranged in harmonious composition, bold colors, mathematical precision, minimal design, clean lines, modern art style",
-          "api":"prodiaghibli"
+          "name": "Pencil Sketch",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "api":"dalle2"
         }
       ]
     },
     {
-      "name": "Fantasy & Mythology",
+      "name": "Thematic",
       "styles": [
         {
-          "name": "Ocean Deity",
-          "imageUrl": "https://imgcdn.stablediffusionweb.com/2024/11/13/61b23a10-bacf-4a4c-b82a-e3a9ec74af0f.jpg",
-          "promptText": "Portrait of an ocean deity with coral crown, water elements flowing through hair, pearl and shell ornaments, underwater lighting, fantasy character design",
+          "name": "Gothic",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
+          "promptText": "Transform this image into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
-          "name": "Forest Guardian",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaS2CQ_JbZ8q-VQEsBPI-liZdPb1XG77aQSA&s",
-          "promptText": "Portrait of a forest guardian with antlers, bark-like skin, moss and flowers growing on shoulders, forest backdrop, fantasy character design, highly detailed",
+          "name": "Sci-Fi",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
+          "promptText": "science fiction, space themes, futuristic technology",
           "api":"prodiaghibli"
         },
         {
-          "name": "Nebula Impressions",
-          "imageUrl": "https://img.freepik.com/premium-photo/nebula_303714-2425.jpg",
-          "promptText": "Abstract cosmic art resembling nebulas and star formations, vibrant colors against black, space-inspired brushstrokes, galactic impressionism, detailed",
+          "name": "Fantasy",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "fantasy art, magical elements, mystical creatures",
           "api":"prodiaghibli"
-        },
-        {
-          "name": "Dreamwalker Style",
-          "imageUrl": "https://ai-previews.123rf.com/ai-txt2img/600nwm/1db2f230-bf14-42cc-9297-39854f6e3f0d.jpg",
-          "promptText": "Transform this image into Dreamwalker style. Reimagine the subject as if drifting through a lucid dream — soft, surreal, and otherworldly. Use flowing shapes, glowing auras, and dreamlike lighting with cool hues like indigo, violet, teal, and moonlight white. The scene should feel fluid and shifting, with blurred edges, floating elements, and impossible landscapes. Incorporate subtle magical symbols, celestial motifs (moons, stars, constellations), or portals between realities. The overall mood should be calm, mysterious, and transcendent — as if the subject is walking through the subconscious mind or a timeless astral plane.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Underworld Entity Style",
-          "imageUrl": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://media.easy-peasy.ai/c1a54fa5-7e73-4b02-a29c-8b1aa302fc46/dbddd328-7f2b-435e-8b3c-e51855f11ac4.png",
-          "promptText": "Transform this image into Underworld Entity style. Reimagine the subject as a dark, otherworldly being born of shadow and fire — ancient, powerful, and terrifying. Use a deep, muted color palette with blacks, blood reds, ashen grays, and eerie embers or glowing runes. Add skeletal or demonic features such as horns, elongated limbs, sharp claws, or molten textures. Surround the figure with elements of the underworld — cracked earth, ghostly mists, lava flows, charred bones, chains, or swirling souls. The atmosphere should be infernal, heavy, and mythic — evoking dread and awe, like a deity of death, torment, or forgotten realms.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Spirit Animal Fusion Style",
-          "imageUrl": "https://i.redd.it/uimb6jd8n0vd1.jpeg",
-          "promptText": "Transform this image into Spirit Animal Fusion style. Reimagine the subject as a seamless fusion of human and spirit animal — symbolic, graceful, and powerful. Blend animal features (fur, feathers, scales, antlers, wings, tails, eyes) naturally with the human form, glowing softly or flowing like energy. Use vibrant, otherworldly colors — luminous blues, spiritual whites, deep earthy browns, or aurora-like gradients. Add elemental effects (wind, water, fire, leaves, or stars) surrounding the figure to evoke a deep connection with nature and the spirit realm. The overall style should feel tribal, mystical, and transcendent — as if the subject is a sacred guide, guardian, or shapeshifter.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Crystal Golem Style",
-          "imageUrl": "https://imgcdn.stablediffusionweb.com/2024/9/15/e6707e00-1bbc-446b-a152-de727b5d5ede.jpg",
-          "promptText": "Transform this image into Crystal Golem style. Reimagine the subject as a towering, humanoid golem made entirely of crystal shards, mineral plates, and glowing gem cores. The body should be formed from jagged, faceted stone — amethyst, obsidian, sapphire, quartz, or emerald — with light refracting through translucent sections. Include glowing veins of energy, runes etched into the crystal surface, and heavy, elemental proportions. The overall aesthetic should feel ancient, mystical, and majestic — a fusion of natural geology and arcane power. Backgrounds may include cave temples, crystal caverns, or sacred summoning grounds.",
-          "api":"prodiaghibli"
-        }
-      ]
-    },
-	{
-      "name": "Scene & Cinematic",
-      "styles": [
-        {
-          "name": "Movie poster style",
-          "imageUrl": "https://cdn.prod.website-files.com/624ac40503a527cf47af4192/6580793e0e3a2849f9eceae0_ai-movie-poster-generator-girl-and-dog.png",
-          "promptText": "Turn this image into a dramatic, high-impact movie poster. Add cinematic lighting, bold title typography, dramatic shadows or highlights, a tagline, and a dynamic composition. Use color grading for a theatrical look, and include stylized elements like lens flares, film grain, and subtle vignetting. The design should evoke strong emotion and suggest a compelling story or genre (e.g., action, sci-fi, drama, horror, romance).",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "NightClub in NewYork",
-          "imageUrl": "https://github.com/ABaqqali/IOS-AI-Image-Generation/blob/main/NightClub1.jpg?raw=true",
-          "promptText": "Put this guy in a puffy black jacket with led rings. The background is a New York City nightclub. He is wearing a leopard print shirt and gold chains.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Tropical Waterfall",
-          "imageUrl": "https://img.freepik.com/premium-photo/waterfall-flowers-tropical-jungle_1307927-84.jpg",
-          "promptText": "Lush tropical waterfall cascading into crystal clear pool, exotic plants and flowers, sunlight filtering through canopy, paradise scene, high detail nature photography",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Desert Sunset",
-          "imageUrl": "https://creator.nightcafe.studio/jobs/r6MYf6PnoSOZdAUJPOmc/r6MYf6PnoSOZdAUJPOmc--1--b49ef.jpg",
-          "promptText": "Dramatic desert sunset over sand dunes, silhouette of cactus, warm orange and purple sky, rugged landscape, cinematic desert scene, detailed landscape",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Arctic Aurora",
-          "imageUrl": "https://img.freepik.com/premium-photo/aurora-borealis-arctic-aurora-borealis-arctic_912214-41021.jpg",
-          "promptText": "Northern lights dancing over arctic landscape, snow-covered pine trees, frozen lake reflecting green and purple auroras, starry night sky, winter wonderland",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Coral Reef",
-          "imageUrl": "https://img-v3.deepdreamgenerator.com/792598/md_he7d93_fbf4f351792c63b6c766ba3cb3feb11e91234ecc.jpg",
-          "promptText": "Vibrant coral reef teeming with tropical fish, clear turquoise water, sunlight filtering from above, underwater photography, highly detailed marine ecosystem",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Noir Detective Style",
-          "imageUrl": "https://thumbs.dreamstime.com/b/male-detective-investigator-hat-coat-rainy-street-night-cartoon-noir-comics-style-male-detective-investigator-hat-268969840.jpg",
-          "promptText": "Transform this image into Noir Detective style. Reimagine the subject in the aesthetic of 1940s–1950s film noir: high-contrast black-and-white tones, dramatic chiaroscuro lighting, and vintage fashion like trench coats, fedoras, or classic suits. The mood should be tense, mysterious, and stylish — with cigarette smoke, rain-soaked alleyways, flickering neon signs, and Venetian blinds casting sharp shadows across the scene. The composition should feel like a still from a black-and-white detective movie, full of intrigue and moral ambiguity. Textures should be gritty and cinematic, with grain, vignetting, and old film effects.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Retro 80s Sci-Fi Style",
-          "imageUrl": "https://creator.nightcafe.studio/jobs/ZyEOJHGEQduCNNhxoCY6/ZyEOJHGEQduCNNhxoCY6-fuHaY.jpg",
-          "promptText": "Transform this image into Retro 80s Sci-Fi style. Reimagine the subject with bold neon lighting, chrome surfaces, and a synthwave color palette of electric pinks, deep purples, glowing cyans, and black shadows. Add retro-futuristic elements like grid-patterned landscapes, VHS-style static, holograms, visors, shoulder pads, and glowing circuitry. Backgrounds can feature digital sunsets, flying cars, geometric skylines, or space vistas with retro starfields and wireframe planets. The style should evoke 1980s sci-fi films, arcade posters, and synth album covers — flashy, surreal, and irresistibly cool.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Post-Apocalyptic Wasteland Style",
-          "imageUrl": "https://thumbs.dreamstime.com/b/post-apocalyptic-cyberpunk-wasteland-sunset-ai-generated-pop-art-style-illustration-303022536.jpg",
-          "promptText": "Transform this image into Post-Apocalyptic Wasteland style. Reimagine the subject as a survivor of a ruined world — dressed in scavenged armor, torn fabrics, or makeshift gear crafted from metal scraps, leather, and worn tech. Use a desaturated, dusty color palette with muted earth tones, rust, and ash-gray skies. Surround the figure with a devastated landscape: cracked earth, collapsed buildings, broken highways, irradiated zones, or skeletal remains of civilization. Add atmospheric effects like smoke, blowing sand, or fallout haze. The overall mood should be harsh, gritty, and cinematic — evoking desperation, resilience, and the remnants of lost humanity.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Rainy Blade Runner Style",
-          "imageUrl": "https://imgcdn.stablediffusionweb.com/2024/3/15/86e101c4-143e-4a66-a9f3-69a3112e1b51.jpg",
-          "promptText": "Transform this image into Rainy Blade Runner style. Reimagine the subject in a futuristic, neon-lit city at night, soaked in relentless rain. Use a rich cyberpunk palette of deep blues, purples, and glowing neon pinks, teals, and yellows reflecting off wet pavement. Surround the figure with towering holographic billboards, misty high-rises, flickering signs in multiple languages, and crowded streets shrouded in fog. Incorporate reflections, glistening surfaces, and cinematic lighting with dramatic shadows and glowing edges. The overall tone should be melancholic, mysterious, and tech-saturated — like a lone detective wandering a dystopian future haunted by memory and machine.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Fairy Tale Forest Style",
-          "imageUrl": "https://creator.nightcafe.studio/jobs/W40sSE5bnF8Pw3gJ6upj/W40sSE5bnF8Pw3gJ6upj--1--nozvh.jpg",
-          "promptText": "Transform this image into Fairy Tale Forest style. Reimagine the subject within a lush, enchanted woodland filled with glowing flora, oversized mushrooms, twisted trees, and soft golden light filtering through the canopy. Use a dreamy color palette with soft greens, warm ambers, gentle purples, and sparkles of fairy dust. Add magical creatures like fireflies, glowing butterflies, or curious woodland animals peeking from behind mossy rocks. The subject may wear natural or medieval-inspired clothing, with floral crowns, cloaks, or ethereal fabrics. The overall mood should feel storybook-like, whimsical, and magical — as if taken from a classic fairy tale or folklore legend.",
-          "api":"prodiaghibli"
-        }
-      ]
-    },
-	{
-      "name": "Txt2Img Prompt Ideas",
-      "styles": [
-        {
-          "name": "Fantasy Worlds",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Fantasy_Worlds.webp",
-          "promptText": "Generate an epic battle scene in anime style, featuring a dragon and a warrior on a cliff.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Character Design",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Character_Design.webp",
-          "promptText": "Design a mysterious anime character cloaked in shadows with glowing red eyes.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Romantic Scenes",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Romantic_Scenes.webp",
-          "promptText": "Illustrate a serene romantic moment between two anime characters under a cherry blossom tree.",
-          "api":"prodiatxt2img"
-        },
-		{
-          "name": "Modern Skyscraper",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Modern_Skyscraper.webp",
-          "promptText": "A modern skyscraper, urban cityscape, contemporary architecture inspired by nature, abstract shapes, ultra photorealistic, bright lighting, photorealistic 3D rendering, 8k",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Impressionism",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Impressionism.webp",
-          "promptText": "Craft an impressionist-style painting of a bustling city street at sunset.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Modern Art",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Modern_Art.webp",
-          "promptText": "Create a bold and vibrant portrait inspired by pop art aesthetics",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Action Scenes",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Action_Scenes.webp",
-          "promptText": "Illustrate a medieval battlefield with knights and a dragon attacking in the background",
-          "api":"prodiatxt2img"
-        },
-		{
-          "name": "Forest with a unicorn",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Forest_with_a_unicorn.jpeg",
-          "promptText": "A magical fantasy forest with a unicorn standing in the center, vivid colors, illuminated by moonlight, surrounded by a rainbow aura, unreal engine, 8k, highly intricate",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Futuristic Space Station",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Futuristic_Space_Station.jpeg",
-          "promptText": "A futuristic space station orbiting a planet, a sophisticated robot in the foreground, jewel tones, cinematic lighting, photorealistic, ultra photoreal, 8k",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Beachfront Paradise",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Beachfront_Paradise.webp",
-          "promptText": "A beachfront paradise, tropical terrain, holiday resort, sun flare, tropical colors, landscape photography, beautiful landscape, ultra-detailed, vibrant scenery, photorealistic, hyperrealistic",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "A Busy Kitchen",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/A_Busy_Kitchen.webp",
-          "promptText": "A busy kitchen, homemade food, seasonal ingredients, warm lighting, natural colors, high-resolution textures, ultra-detailed, photorealistic, 8k, octane render",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Cozy Retreats",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Cozy_Retreats.webp",
-          "promptText": "Produce a rustic cabin in the woods with a warm, inviting atmosphere.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "A fantasy forest with glowing",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/A_fantasy_forest_with_glowing.webp",
-          "promptText": "A fantasy forest with glowing mushrooms, a sparkling river, and a moonlit sky.",
-          "api":"prodiatxt2img"
         }
       ]
     }
