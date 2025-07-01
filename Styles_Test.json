@@ -10,22 +10,28 @@
           "api":"prodiatxt2img"
         },
         {
-          "name": "Pixel Art",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "pixel art style, 8-bit gaming, retro",
-          "api":"prodiatxt2img"
+          "name": "Labubu styles",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHoYJNxipenUu_iWb2Y3R9y-KMhHuu4YVhomNauL_HwrGOmLJNL9Z0RXKuJjiY29dRUo&usqp=CAU",
+          "promptText": "Transform this image into Labubu style. Reimagine the subject as a mischievous, whimsical creature with the signature Labubu look: large round eyes, wide toothy grin, long rabbit-like ears, and a scruffy, furry texture. The head should be oversized compared to the body, with a playful, slightly chaotic expression. Use a handcrafted vinyl toy aesthetic with matte surfaces, bold lines, and muted, earthy tones like brown, cream, and faded red. The background can be minimal or styled like a fantasy toy world — mysterious forests, crooked houses, or dreamlike spaces. The final image should feel like a collectible art toy full of quirky personality and charm",
+          "api":"prodiaghibli"
         },
         {
-          "name": "Isometric",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "isometric perspective, geometric design, clean lines",
-          "api":"prodiatxt2img"
+          "name": "Ghibli 1",
+          "imageUrl": "https://geblee.ai/imgs/features/2.png",
+          "promptText": "Transform the image into a vibrant, hand-drawn style reminiscent of Studio Ghibli animation. The style should include soft, rounded character features, with smooth, flowing lines and a dreamlike atmosphere",
+          "api":"prodiaghibli"
         },
-        {
-          "name": "Minimalist",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "minimalist style, simple lines, limited color palette",
-          "api":"prodiatxt2img"
+	{
+          "name": "Business profiles",
+          "imageUrl": "https://myedit.online/seo_content/images/section_05/ai_professional_photo_02.webp",
+          "promptText": "Transform this image into a clean, professional corporate portrait suitable for LinkedIn or business profiles. Use realistic lighting with a soft focus, neutral or lightly blurred background (light gray, white, soft blue, or modern office setting). The subject should be well-lit with even tones, minimal shadow, and natural skin texture. Clothing should appear formal and clean—business attire like a blazer, dress shirt, or blouse (optionally with a tie or scarf). Maintain a confident, approachable expression with direct eye contact and a natural posture. The overall image should be sharp, elegant, and polished, evoking professionalism, trustworthiness, and competence.",
+          "api":"prodiaghibli"
+        },
+	{
+          "name": "Action Figure",
+          "imageUrl": "https://plugins-media.makeupar.com/smb/story/2025-04-08/ae9e473f-96db-474c-8a9b-975a86f6c346.png",
+          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "api":"prodiaghibli"
         }
       ]
     },
