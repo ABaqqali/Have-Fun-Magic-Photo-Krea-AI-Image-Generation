@@ -36,30 +36,90 @@
       ]
     },
     {
-      "name": "Painting",
+      "name": "Character - Animation",
       "styles": [
         {
-          "name": "Watercolor",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "watercolor painting, soft edges, artistic brushstrokes",
+          "name": "Clay Motion Style",
+          "model": "supernova",
+          "prompt": "Transform this image into a clay motion (claymation) style. The subject should appear handcrafted from colorful modeling clay, with visible fingerprints, smudges, and soft, slightly imperfect textures. Use stop-motion animation aesthetics with exaggerated expressions, simple shapes, and a playful, handmade look. The lighting should mimic a miniature set with subtle shadows and a tangible, tactile feel.",
+          "thumbnail": "https://img.freepik.com/premium-photo/ilustration-art-claymation-style-stop-motion-animation-funny-clay-puppet-car-creative-cute-anime_1020495-51036.jpg"
+        },
+		{
+          "name": "Knitted toy style",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEt5SqS7FMA65X2JFtWvTBY0kMRIku9613g&s",
+          "promptText": "Transform this image into a soft, handmade knitted toy style. The subject should appear as if it’s made of colorful yarn, with visible knit or crochet stitches, soft textures, rounded features, and plush-like proportions. Use warm, cozy lighting and a simple background to emphasize the crafted, toy-like feel.",
           "api":"prodiaghibli"
         },
         {
-          "name": "Oil Painting",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
-          "promptText": "oil painting, textured canvas, classical art style",
+          "name": "Caricature style",
+          "imageUrl": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/327714970/original/1a6e437521ae0e99b506c035cbf7af0bac7962d4/make-cartoon-caricature-portraits-and-digital-design.jpg",
+          "promptText": "Transform this image into a caricature style. Exaggerate distinctive facial features such as the nose, eyes, mouth, or hair while preserving a recognizable likeness. Use bold outlines, vibrant colors, and playful proportions. The style should be humorous, expressive, and slightly exaggerated, as if drawn by a skilled cartoonist. Add a fun, dynamic background or context that enhances the personality of the subject.",
           "api":"prodiaghibli"
         },
         {
-          "name": "Abstract",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "abstract art, geometric shapes, bold colors",
+          "name": "Minecraft style",
+          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2484f97-a047-49d6-837b-ef68966e6d85/dh1j0oz-237fe70e-e866-426c-93f2-a14735d28795.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YyNDg0Zjk3LWEwNDctNDlkNi04MzdiLWVmNjg5NjZlNmQ4NVwvZGgxajBvei0yMzdmZTcwZS1lODY2LTQyNmMtOTNmMi1hMTQ3MzVkMjg3OTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDeeoBcy-3zkOkgKwn-iL-6dVg4dJL8l_OhF-4f5d5M",
+          "promptText": "Transform this image into Minecraft style. Recreate the subject using blocky, low-resolution textures, square pixels, and voxel-based geometry. All shapes and forms should appear built from cubes, with a pixel-art aesthetic. Use Minecraft’s signature lighting, flat shading, and simplified colors. The environment and subject should look like they were constructed in the Minecraft game engine, with clear, cartoony realism and a playful tone.",
           "api":"prodiaghibli"
         },
         {
-          "name": "Pop Art",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "pop art style, bold colors, comic book inspired",
+          "name": "Muppet Style",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/04/Muppet-Matt-Holding-A-Bird.jpg",
+          "promptText": "Transform this image into Muppet style. Reimagine the subject as a soft, hand-crafted puppet made from felt, fleece, and yarn. Use bright, solid colors, simple rounded shapes, and expressive features like large googly eyes, stitched mouths, and exaggerated noses. The texture should resemble fuzzy fabric or plush material. The overall look should be friendly, playful, and theatrical, as if the character belongs on a puppet stage or in a Jim Henson production.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Simpsons style",
+          "imageUrl": "https://imagineme-ai.b-cdn.net/wp-content/uploads/2024/07/58f37159-1-446946-SeverLatysov-man-as-a-character-from-the-Simpsons-in-the-Simpsons-animated-s-1.png",
+          "promptText": "Transform this image into The Simpsons cartoon style. Use flat, 2D line art with bold black outlines and simple, solid colors. Characters should have the classic yellow skin tone, over-exaggerated expressions, and minimal shading. Facial features should be simplified with large round eyes, overbites, and expressive, cartoon-style gestures. The overall look should match the world of The Simpsons, with a playful, satirical tone and Springfield-style background elements.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Lego style",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIK0y4I4wpkTHKKIa4uzvWhDZGhZIL2o-eg&s",
+          "promptText": "Transform this image into Lego style. Reimagine the subject using glossy plastic Lego bricks with clean, modular shapes and bright, solid colors. Characters should appear as Lego minifigures, with cylindrical heads, U-shaped hands, and simple printed facial features. Objects and environments should be built entirely from interlocking bricks, with clear studs, sharp edges, and a toy-like scale. Lighting should reflect the shiny plastic texture typical of Lego models.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Barbie Doll Style",
+          "imageUrl": "https://img.freepik.com/premium-photo/barbie-doll_94574-3091.jpg",
+          "promptText": "Transform this image into Barbie Doll style. Reimagine the subject as a glamorous plastic fashion doll with smooth, flawless features, glossy skin, and perfect hair. Use bright, pastel colors (especially pinks, purples, and turquoise), and style the subject with fashionable, doll-like clothing and accessories. The face should have soft makeup, shiny lips, and large, expressive eyes with long lashes. The overall look should be polished, vibrant, and posed — as if displayed in a toy box or fashion runway set.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Anime Realism Style",
+          "imageUrl": "https://images-ng.pixai.art/images/orig/a8517366-193e-41bc-a57d-7fa1346f49f8",
+          "promptText": "Transform this image into Anime Realism style. Maintain the stylized features of anime — large expressive eyes, sharp facial lines, and clean silhouettes — but render them with realistic textures, detailed lighting, and subtle skin shading. Use natural color palettes, soft gradients, and reflective lighting for a semi-realistic look. Hair should have fine strands and natural flow, clothing should show realistic folds and textures, and the background should include cinematic depth-of-field and atmospheric detail. The final image should balance anime charm with a painterly, lifelike finish.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Paper Cutout Style",
+          "imageUrl": "https://thumbs.dreamstime.com/b/valentine-s-day-card-lovers-valentine-s-day-card-couple-love-paper-craft-style-illustration-ai-generated-355232490.jpg",
+          "promptText": "Transform this image into Paper Cutout style. Reimagine the subject using layered pieces of cut paper with visible edges, soft shadows, and a tactile, hand-crafted appearance. Each shape should be a separate paper layer, with clean or slightly rough edges and subtle textures like cardstock, construction paper, or felt. Use a limited color palette with flat tones, avoiding gradients or deep shadows. The lighting should highlight the physical depth between layers, creating a charming, collage-like 3D effect. The overall style should feel playful, artisanal, and storybook-inspired",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Tim Burton Style",
+          "imageUrl": "https://i.pinimg.com/736x/43/9f/6e/439f6ebd57089dd2d1fa34326086b99c.jpg",
+          "promptText": "Transform this image into Tim Burton style. Reimagine the subject with exaggerated proportions, pale complexions, and large, expressive eyes with dark circles. Use a gothic color palette with desaturated tones, black, gray, deep purples, and eerie blues. Incorporate twisted, whimsical shapes, elongated limbs, and asymmetrical features. The background should feel dreamlike and haunting — foggy forests, crooked buildings, or dramatic skies. Textures should be hand-drawn or sketchy, with a macabre yet playful atmosphere, inspired by films like The Nightmare Before Christmas, Corpse Bride, or Beetlejuice.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Steampunk Puppet Style",
+          "imageUrl": "https://cdn.openart.ai/published/NIK44stGBvEPibQWQmjZ/9FpU9LEF_DIxW_raw.jpg",
+          "promptText": "Transform this image into Steampunk Puppet style. Reimagine the subject as a mechanical puppet with exposed gears, brass joints, rivets, and leather straps. The body should be segmented like a marionette or automaton, with visible hinges, screws, and vintage clockwork mechanisms. Use a color palette of tarnished gold, copper, bronze, and dark wood, with fabric or leather accents in earthy tones. The face can be a blend of doll-like innocence and mechanical detailing — glass eyes, etched metal plates, or stitched seams. Backgrounds should feel industrial and Victorian — full of pipes, steam vents, and analog machinery — evoking a handcrafted, retro-futuristic world.",
+          "api":"prodiaghibli"
+        },
+		{
+          "name": "Manga Style",
+          "imageUrl": "https://animegenius-global.live3d.io/vtuber/ai_product/anime_genius/static/imgs/bc043ce8dc1d116fa0a977046fc0247a.webp",
+          "promptText": "Transform this image into manga style. Use clean black-and-white line art with bold outlines, expressive facial features (large eyes, sharp chins, dramatic expressions), and screentone shading for depth. Emphasize dynamic poses, stylized hair, and emotional intensity typical of Japanese manga illustrations. Background can be simplified or rendered in manga panel style with action lines or halftone textures.",
+          "api":"prodiaghibli"
+        },
+        {
+          "name": "Pixar style",
+          "imageUrl": "https://lumenor.ai/cdn-cgi/imagedelivery/F5KOmplEz0rStV2qDKhYag/66b73539-7bd8-4659-a667-cce6d0d95200/tn",
+          "promptText": "Transform this image into a Pixar-style 3D animated character or scene. Use smooth, stylized shapes, vibrant colors, large expressive eyes, soft textures, and detailed lighting. The style should be wholesome, friendly, and full of emotion, with a cinematic Pixar-like quality, as if from a modern animated feature film.",
           "api":"prodiaghibli"
         }
       ]
