@@ -1,70 +1,17 @@
 {
   "categories": [
     {
-      "name": "Trend",
+      "name": "Top Styles",
       "styles": [
         {
           "name": "No Style",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/No_Style.png",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/effect.png",
           "promptText": " ",
           "api":"prodiatxt2img"
         },
-	{
+        {
           "name": "Labubu styles",
-          "imageUrl": "https://models-online-persist.shakker.cloud/img/984c433def7c44579c569e8d2436f81b/a8394c694932cbaf83b2b7c15ac5c9c11de8a6fa197e096954de0c9f9969c541.jpg?x-oss-process=image/resize,w_764,m_lfit/format,webp",
-          "promptText": "Transform this image into Labubu style. Reimagine the subject as a mischievous, whimsical creature with the signature Labubu look: large round eyes, wide toothy grin, long rabbit-like ears, and a scruffy, furry texture. The head should be oversized compared to the body, with a playful, slightly chaotic expression. Use a handcrafted vinyl toy aesthetic with matte surfaces, bold lines, and muted, earthy tones like brown, cream, and faded red. The background can be minimal or styled like a fantasy toy world — mysterious forests, crooked houses, or dreamlike spaces. The final image should feel like a collectible art toy full of quirky personality and charm",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Action Figure",
-          "imageUrl": "https://plugins-media.makeupar.com/smb/story/2025-04-08/ae9e473f-96db-474c-8a9b-975a86f6c346.png",
-          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Business profiles",
-          "imageUrl": "https://myedit.online/seo_content/images/section_05/ai_professional_photo_02.webp",
-          "promptText": "Transform this image into a clean, professional corporate portrait suitable for LinkedIn or business profiles. Use realistic lighting with a soft focus, neutral or lightly blurred background (light gray, white, soft blue, or modern office setting). The subject should be well-lit with even tones, minimal shadow, and natural skin texture. Clothing should appear formal and clean—business attire like a blazer, dress shirt, or blouse (optionally with a tie or scarf). Maintain a confident, approachable expression with direct eye contact and a natural posture. The overall image should be sharp, elegant, and polished, evoking professionalism, trustworthiness, and competence.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Social Photo",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Social_Trend.png",
-          "promptText": "Transform this photo into a stylized 3D cartoon character sitting in a cozy, modern room with warm lighting and a beach view through the window. The subject should have large expressive eyes, a rounded face, and soft plastic-like textures — similar to high-quality vinyl figures or Pixar-style avatars. Dress them in casual, modern clothing (like a simple dress or t-shirt and shorts) and seat them on a cube featuring the logo of a social media platform (e.g., TikTok). Include a giant smartphone display next to them showing their profile with follower stats, a profile pic, and a soft pastel UI. The final composition should be playful, clean, and feel like a promotional animation for a digital influencer.",
-          "api":"prodiaghibli"
-        },
-         {
-          "name": "Caricature style",
-          "imageUrl": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/327714970/original/1a6e437521ae0e99b506c035cbf7af0bac7962d4/make-cartoon-caricature-portraits-and-digital-design.jpg",
-          "promptText": "Transform this image into a caricature style. Exaggerate distinctive facial features such as the nose, eyes, mouth, or hair while preserving a recognizable likeness. Use bold outlines, vibrant colors, and playful proportions. The style should be humorous, expressive, and slightly exaggerated, as if drawn by a skilled cartoonist. Add a fun, dynamic background or context that enhances the personality of the subject.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Minecraft style",
-          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2484f97-a047-49d6-837b-ef68966e6d85/dh1j0oz-237fe70e-e866-426c-93f2-a14735d28795.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YyNDg0Zjk3LWEwNDctNDlkNi04MzdiLWVmNjg5NjZlNmQ4NVwvZGgxajBvei0yMzdmZTcwZS1lODY2LTQyNmMtOTNmMi1hMTQ3MzVkMjg3OTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDeeoBcy-3zkOkgKwn-iL-6dVg4dJL8l_OhF-4f5d5M",
-          "promptText": "Transform this image into Minecraft style. Recreate the subject using blocky, low-resolution textures, square pixels, and voxel-based geometry. All shapes and forms should appear built from cubes, with a pixel-art aesthetic. Use Minecraft’s signature lighting, flat shading, and simplified colors. The environment and subject should look like they were constructed in the Minecraft game engine, with clear, cartoony realism and a playful tone.",
-          "api":"prodiaghibli"
-        },
-        {
-          "name": "Muppet Style",
-          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/04/Muppet-Matt-Holding-A-Bird.jpg",
-          "promptText": "Transform this image into Muppet style. Reimagine the subject as a soft, hand-crafted puppet made from felt, fleece, and yarn. Use bright, solid colors, simple rounded shapes, and expressive features like large googly eyes, stitched mouths, and exaggerated noses. The texture should resemble fuzzy fabric or plush material. The overall look should be friendly, playful, and theatrical, as if the character belongs on a puppet stage or in a Jim Henson production.",
-          "api":"prodiaghibli"
-        }
-      ]
-    },
-    {
-      "name": "Character & Animation",
-      "styles": [
-        {
-          "name": "Action Figure",
-          "imageUrl": "https://plugins-media.makeupar.com/smb/story/2025-04-08/ae9e473f-96db-474c-8a9b-975a86f6c346.png",
-          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
-          "api":"prodiaghibli"
-        },
-	{
-          "name": "Labubu styles",
-          "imageUrl": "https://models-online-persist.shakker.cloud/img/984c433def7c44579c569e8d2436f81b/a8394c694932cbaf83b2b7c15ac5c9c11de8a6fa197e096954de0c9f9969c541.jpg?x-oss-process=image/resize,w_764,m_lfit/format,webp",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHoYJNxipenUu_iWb2Y3R9y-KMhHuu4YVhomNauL_HwrGOmLJNL9Z0RXKuJjiY29dRUo&usqp=CAU",
           "promptText": "Transform this image into Labubu style. Reimagine the subject as a mischievous, whimsical creature with the signature Labubu look: large round eyes, wide toothy grin, long rabbit-like ears, and a scruffy, furry texture. The head should be oversized compared to the body, with a playful, slightly chaotic expression. Use a handcrafted vinyl toy aesthetic with matte surfaces, bold lines, and muted, earthy tones like brown, cream, and faded red. The background can be minimal or styled like a fantasy toy world — mysterious forests, crooked houses, or dreamlike spaces. The final image should feel like a collectible art toy full of quirky personality and charm",
           "api":"prodiaghibli"
         },
@@ -74,13 +21,30 @@
           "promptText": "Transform the image into a vibrant, hand-drawn style reminiscent of Studio Ghibli animation. The style should include soft, rounded character features, with smooth, flowing lines and a dreamlike atmosphere",
           "api":"prodiaghibli"
         },
+	{
+          "name": "Business profiles",
+          "imageUrl": "https://myedit.online/seo_content/images/section_05/ai_professional_photo_02.webp",
+          "promptText": "Transform this image into a clean, professional corporate portrait suitable for LinkedIn or business profiles. Use realistic lighting with a soft focus, neutral or lightly blurred background (light gray, white, soft blue, or modern office setting). The subject should be well-lit with even tones, minimal shadow, and natural skin texture. Clothing should appear formal and clean—business attire like a blazer, dress shirt, or blouse (optionally with a tie or scarf). Maintain a confident, approachable expression with direct eye contact and a natural posture. The overall image should be sharp, elegant, and polished, evoking professionalism, trustworthiness, and competence.",
+          "api":"prodiaghibli"
+        },
+	{
+          "name": "Action Figure",
+          "imageUrl": "https://plugins-media.makeupar.com/smb/story/2025-04-08/ae9e473f-96db-474c-8a9b-975a86f6c346.png",
+          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
+          "api":"prodiaghibli"
+        }
+      ]
+    },
+    {
+      "name": "Character - Animation",
+      "styles": [
         {
           "name": "Clay Motion Style",
-          "model": "supernova",
-          "prompt": "Transform this image into a clay motion (claymation) style. The subject should appear handcrafted from colorful modeling clay, with visible fingerprints, smudges, and soft, slightly imperfect textures. Use stop-motion animation aesthetics with exaggerated expressions, simple shapes, and a playful, handmade look. The lighting should mimic a miniature set with subtle shadows and a tangible, tactile feel.",
-          "thumbnail": "https://img.freepik.com/premium-photo/ilustration-art-claymation-style-stop-motion-animation-funny-clay-puppet-car-creative-cute-anime_1020495-51036.jpg"
+          "imageUrl": "https://img.freepik.com/premium-photo/ilustration-art-claymation-style-stop-motion-animation-funny-clay-puppet-car-creative-cute-anime_1020495-51036.jpg",
+          "promptText": "Transform this image into a clay motion (claymation) style. The subject should appear handcrafted from colorful modeling clay, with visible fingerprints, smudges, and soft, slightly imperfect textures. Use stop-motion animation aesthetics with exaggerated expressions, simple shapes, and a playful, handmade look. The lighting should mimic a miniature set with subtle shadows and a tangible, tactile feel.",
+          "api":"prodiaghibli"
         },
-		{
+	      {
           "name": "Knitted toy style",
           "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEt5SqS7FMA65X2JFtWvTBY0kMRIku9613g&s",
           "promptText": "Transform this image into a soft, handmade knitted toy style. The subject should appear as if it’s made of colorful yarn, with visible knit or crochet stitches, soft textures, rounded features, and plush-like proportions. Use warm, cozy lighting and a simple background to emphasize the crafted, toy-like feel.",
@@ -161,7 +125,7 @@
       ]
     },
     {
-      "name": "Art & Illustration",
+      "name": "Art - Illustration",
       "styles": [
         {
           "name": "Pop art style",
@@ -250,7 +214,7 @@
       ]
     },
     {
-      "name": "Fantasy & Mythology",
+      "name": "Fantasy - Mythology",
       "styles": [
         {
           "name": "Ocean Deity",
@@ -296,8 +260,8 @@
         }
       ]
     },
-	{
-      "name": "Scene & Cinematic",
+    {
+      "name": "Scene - Cinematic",
       "styles": [
         {
           "name": "Movie poster style",
@@ -364,89 +328,6 @@
           "imageUrl": "https://creator.nightcafe.studio/jobs/W40sSE5bnF8Pw3gJ6upj/W40sSE5bnF8Pw3gJ6upj--1--nozvh.jpg",
           "promptText": "Transform this image into Fairy Tale Forest style. Reimagine the subject within a lush, enchanted woodland filled with glowing flora, oversized mushrooms, twisted trees, and soft golden light filtering through the canopy. Use a dreamy color palette with soft greens, warm ambers, gentle purples, and sparkles of fairy dust. Add magical creatures like fireflies, glowing butterflies, or curious woodland animals peeking from behind mossy rocks. The subject may wear natural or medieval-inspired clothing, with floral crowns, cloaks, or ethereal fabrics. The overall mood should feel storybook-like, whimsical, and magical — as if taken from a classic fairy tale or folklore legend.",
           "api":"prodiaghibli"
-        }
-      ]
-    },
-	{
-      "name": "Txt2Img Prompt Ideas",
-      "styles": [
-        {
-          "name": "Fantasy Worlds",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Fantasy_Worlds.webp",
-          "promptText": "Generate an epic battle scene in anime style, featuring a dragon and a warrior on a cliff.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Character Design",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Character_Design.webp",
-          "promptText": "Design a mysterious anime character cloaked in shadows with glowing red eyes.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Romantic Scenes",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Romantic_Scenes.webp",
-          "promptText": "Illustrate a serene romantic moment between two anime characters under a cherry blossom tree.",
-          "api":"prodiatxt2img"
-        },
-		{
-          "name": "Modern Skyscraper",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Modern_Skyscraper.webp",
-          "promptText": "A modern skyscraper, urban cityscape, contemporary architecture inspired by nature, abstract shapes, ultra photorealistic, bright lighting, photorealistic 3D rendering, 8k",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Impressionism",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Impressionism.webp",
-          "promptText": "Craft an impressionist-style painting of a bustling city street at sunset.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Modern Art",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Modern_Art.webp",
-          "promptText": "Create a bold and vibrant portrait inspired by pop art aesthetics",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Action Scenes",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Action_Scenes.webp",
-          "promptText": "Illustrate a medieval battlefield with knights and a dragon attacking in the background",
-          "api":"prodiatxt2img"
-        },
-		{
-          "name": "Forest with a unicorn",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Forest_with_a_unicorn.jpeg",
-          "promptText": "A magical fantasy forest with a unicorn standing in the center, vivid colors, illuminated by moonlight, surrounded by a rainbow aura, unreal engine, 8k, highly intricate",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Futuristic Space Station",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Futuristic_Space_Station.jpeg",
-          "promptText": "A futuristic space station orbiting a planet, a sophisticated robot in the foreground, jewel tones, cinematic lighting, photorealistic, ultra photoreal, 8k",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Beachfront Paradise",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Beachfront_Paradise.webp",
-          "promptText": "A beachfront paradise, tropical terrain, holiday resort, sun flare, tropical colors, landscape photography, beautiful landscape, ultra-detailed, vibrant scenery, photorealistic, hyperrealistic",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "A Busy Kitchen",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/A_Busy_Kitchen.webp",
-          "promptText": "A busy kitchen, homemade food, seasonal ingredients, warm lighting, natural colors, high-resolution textures, ultra-detailed, photorealistic, 8k, octane render",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "Cozy Retreats",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/Cozy_Retreats.webp",
-          "promptText": "Produce a rustic cabin in the woods with a warm, inviting atmosphere.",
-          "api":"prodiatxt2img"
-        },
-        {
-          "name": "A fantasy forest with glowing",
-          "imageUrl": "https://raw.githubusercontent.com/ABaqqali/Have-Fun-Magic-Photo-Krea-AI-Image-Generation/main/A_fantasy_forest_with_glowing.webp",
-          "promptText": "A fantasy forest with glowing mushrooms, a sparkling river, and a moonlit sky.",
-          "api":"prodiatxt2img"
         }
       ]
     }
